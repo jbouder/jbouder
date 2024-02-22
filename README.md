@@ -6,7 +6,7 @@ My name is Johnny Bouder and I am obsessed with technology! Particulary technolo
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-purple?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Storybook](https://img.shields.io/badge/-Storybook-white?style=flat-square&logo=storybook)
@@ -23,4 +23,5 @@ My name is Johnny Bouder and I am obsessed with technology! Particulary technolo
 ## Fun Facts
 - I make my own cheese
 - I love really heavy metal 🤘🤘
+- I love to read Sci-Fi
 - I accept Reeses Peanut Butter Cups as currency
