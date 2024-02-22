@@ -20,6 +20,8 @@ My name is Johnny Bouder and I am obsessed with technology! Particulary technolo
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+![jbouder's Stats](https://github-readme-stats.vercel.app/api?username=jbouder&theme=vue&show_icons=true&hide_border=true&count_private=true)
+
 ## Fun Facts
 - I make my own cheese
 - I love really heavy metal 🤘🤘
