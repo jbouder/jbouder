@@ -1,6 +1,6 @@
 ## Hello there...
 
-My name is Johnny Bouder and I am obsessed with technology! Particulary technology revolving around Frontend, Open-Source, and Developer Experience (DevEx). Feel free to connect with me here:
+My name is Johnny Bouder and I am obsessed with technology! Particularly technology revolving around Frontend, Open-Source, and Developer Experience (DevEx). Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-johnnybouder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnny-bouder/)](https://www.linkedin.com/in/johnny-bouder/)
 
